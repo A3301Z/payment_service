@@ -1,0 +1,4 @@
+rootProject.name = 'payment_service'
+
+include 'payment_module'
+include 'product_module'
